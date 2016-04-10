@@ -1,0 +1,16 @@
+{
+  "name": "ESTEE20151016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "browser-sync start --server --files=\"*\""
+  },
+  "author": "John Ke",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0"
+  }
+}
