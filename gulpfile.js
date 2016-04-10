@@ -30,4 +30,4 @@ var gulp = require('gulp'),
     gulp.watch('./sass/*.scss',['compass']);
 });
 
-gulp.task('default',['serve']);
+gulp.task('default',['serve']); 
